@@ -1,0 +1,21 @@
+.side__road {
+  margin: auto;
+  background-color: #8d8d8d;
+  width: 574px;
+  height: 1080px;
+}
+.road {
+  margin: auto;
+  background-color: #797979;
+  width: 360px;
+  height: 1080px;
+}
+
+.car {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 184px;
+  height: 335px;
+  background-color: transparent;
+}
